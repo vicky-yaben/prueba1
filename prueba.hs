@@ -1,0 +1,3 @@
+diceNombre :: String
+diceNombre = "vicky"
+
